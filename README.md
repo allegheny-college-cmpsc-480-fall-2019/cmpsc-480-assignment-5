@@ -9,7 +9,7 @@ To conduct a brief survey of job or graduate school application listings to disc
 ## Goals
 
 * To learn to decode what application announcements say about the opportunities they advertise
-* To understand what various opportunities have in common and how this impacts your resume arrangements
+* To understand what various opportunities have in common and how this impacts your résumé arrangements
 * To understand how to use cover letters to address gaps between or common experiences with position listings
 * To learn skills for finding positions that are appropriate for your interests and skill levels
 * To discover ways to talk about and negotiate for your identity as a computer scientist
